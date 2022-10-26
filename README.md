@@ -3,11 +3,13 @@
 This is my first i3...complete set up for my work flow and I am loving it. 
 [![Desktop](https://github.com/sudo-zoro/arch_i3_dots/blob/main/archi3.mp4)]
 
-| **OS**       | **arcolinuxB**|
+
+| **Distro**   | **arcolinuxB**|
+|:------------:|:-------------:|
 | wm 		   | **i3-gaps**   |
 |Status bar    | **polybar**   |
 | Terminal     | **Alacritty** | 
-
+| Compositor   | **Picom**     |
 ## Requirments ***This list is not complete***
 
 - i3-gaps i3blocks i3lock numloackx
