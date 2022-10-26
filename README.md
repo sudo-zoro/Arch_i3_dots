@@ -3,10 +3,11 @@
 This is my first i3...complete set up for my work flow and I am loving it. 
 ![Desktop](https://github.com/sudo-zoro/arch_i3_dots/blob/main/archi3.mp4)
 
-### OS         : arcolinuxB
-### wm 		   : i3-gaps
-### Status bar : polybar
-### Terminal   : Alacritty 
+| **OS**       | **arcolinuxB**|
+|:------------:|:-------------:|
+| wm 		   | **i3-gaps**   |
+|Status bar    | **polybar**   |
+| Terminal     | **Alacritty** | 
 
 ## Requirments ***This list is not complete***
 
@@ -21,6 +22,11 @@ This is my first i3...complete set up for my work flow and I am loving it.
   `` sudo systemctl enable lightdm ``
 - cava 
 - picom
+- spotify
+- playerctl
+- pulseaudio
+- thunar
+
 
 ## Config files
 
@@ -31,7 +37,7 @@ This is my first i3...complete set up for my work flow and I am loving it.
 `` .config/i3/volume.sh``
 
 ### Additional wifi module is in 
-`` .config/polybar/CheckWifi.sh`` (Presently not used since polybar have inbuilt modules)
+`` .config/polybar/CheckWifi.sh`` ***(Presently not used since polybar have inbuilt modules)***
 
 ### Spotify config
 `` .config/polybar/script/get_spotify_status.sh and scroll_spotify_status.sh``
