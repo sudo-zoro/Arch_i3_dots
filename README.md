@@ -1,17 +1,20 @@
 # I3 dots
 
-This is my first i3...complete set up for my work flow and I am loving it. 
-
+This is my first i3...complete set up for my work flow and I am loving it :grin:. 
 https://user-images.githubusercontent.com/85948202/198067577-6b532511-6469-415b-a20c-7273c0172d8e.mp4
 
+
+## :rabbit: Rice Menu
 | **Distro**   | **arcolinuxB**|
 |:------------:|:-------------:|
 | wm 		   | **i3-gaps**   |
-|Status bar    | **polybar**   |
+| Status bar   | **polybar**   |
 | Terminal     | **Alacritty** | 
 | Compositor   | **Picom**     |
-## Requirments ***This list is not complete***
+| Menu         | **Rofi**	   |
 
+## :cookie: Requirments 
+***This list is not complete***
 - i3-gaps i3blocks i3lock numloackx
 - brightnessctl (since there was a problem whit xbacklight)
 - zscroll
@@ -30,7 +33,7 @@ https://user-images.githubusercontent.com/85948202/198067577-6b532511-6469-415b-
 - feh 
 
 
-## Config files
+## :orange_book: Config files
 
 **Brightness dunst** 
 `` .config/i3/dunstBrightness.sh``
