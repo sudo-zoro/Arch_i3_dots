@@ -1,6 +1,6 @@
 # I3 dots
 This is my first i3 complete set up for my work flow 
-[Desktop](https://github.com/sudo-zoro/arch_i3_dots/blob/main/archi3.gif)
+![Desktop](https://github.com/sudo-zoro/arch_i3_dots/blob/main/archi3.gif)
 
 This customization was worked on [arcolinuxB i3 version](https://www.arcolinux.info/downloads/), pretty much all essential things was installed but i3 status bar should disable 
 
