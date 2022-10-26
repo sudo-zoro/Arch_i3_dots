@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/85948202/198067577-6b532511-6469-415b-
 **Volune dunst**
 `` .config/i3/volume.sh``
 
-**Additional wifi module is in **
+**Additional wifi module is in**
 `` .config/polybar/CheckWifi.sh`` ***(Presently not used since polybar have inbuilt modules)***
 
 **Spotify config**
