@@ -6,13 +6,13 @@ https://user-images.githubusercontent.com/85948202/198067577-6b532511-6469-415b-
 
 
 ## :rabbit: Rice Menu
-| **Distro**   | **arcolinuxB**|
+| **Distro**   | **arcolinux** |
 |:------------:|:-------------:|
-| wm 		   | **i3-gaps**   |
+| wm 		       | **i3-gaps**   |
 | Status bar   | **polybar**   |
 | Terminal     | **Alacritty** | 
 | Compositor   | **Picom**     |
-| Menu         | **Rofi**	   |
+| Menu         | **Rofi**	     |
 
 ## :cookie: Requirments 
 ***This list is not complete***
@@ -32,6 +32,10 @@ https://user-images.githubusercontent.com/85948202/198067577-6b532511-6469-415b-
 - pulseaudio
 - thunar
 - feh 
+- alacritty
+- betterlockscreen
+- alsamixer
+
 
 
 ## :orange_book: Config files
