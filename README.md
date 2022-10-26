@@ -1,21 +1,26 @@
 # I3 dots
 
-This is my first i3...complete set up for my work flow and i am loving it. 
-![Desktop](https://github.com/sudo-zoro/arch_i3_dots/blob/main/archi3.mkv)
+This is my first i3...complete set up for my work flow and I am loving it. 
+![Desktop](https://github.com/sudo-zoro/arch_i3_dots/blob/main/archi3.mp4)
 
-This customization was worked on [arcolinuxB i3 version](https://www.arcolinux.info/downloads/), pretty much all essential things was installed but i3 status bar should disable 
+### OS         : arcolinuxB
+### wm 		   : i3-gaps
+### Status bar : polybar
+### Terminal   : Alacritty 
 
-## Additional package installed  
+## Requirments ***This list is not complete***
 
+- i3-gaps i3blocks i3lock numloackx
 - brightnessctl (since there was a problem whit xbacklight)
 - zscroll
 - [vfetch](https://github.com/Lorago/vfetch)
 - dunst
 - [rofi-network-manager](https://github.com/P3rf/rofi-network-manager#requirements)
 - DejaVuSansMono-wifi-ramp.ttf [font](https://github.com/isaif/polybar-wifi-ramp-icons)
-- lightdm (Sddm was giving a lot of troubles for me :|)
+- lightdm lightdm-gtk-greeter (Sddm was giving a lot of troubles for me :|)
   `` sudo systemctl enable lightdm ``
 - cava 
+- picom
 
 ## Config files
 
@@ -34,9 +39,3 @@ This customization was worked on [arcolinuxB i3 version](https://www.arcolinux.i
 ### rofi network manager config
 `` .config/rofi/rofi-network-manager``
 
-
-## Overall packages requirements ***this list is not complete***
-
-```
-i3-gaps i3blocks i3lock numloackx polybar rofi lightdm lightdm-gtk-greeter dunst firefox brightnessctl cava
-```
