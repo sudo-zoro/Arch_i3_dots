@@ -1,6 +1,7 @@
 # I3 dots
 
-This is my first i3...complete set up for my work flow and I am loving it :grin:. 
+This is my first i3...complete set up for my work flow and I am loving it :grin:.
+
 https://user-images.githubusercontent.com/85948202/198067577-6b532511-6469-415b-a20c-7273c0172d8e.mp4
 
 
